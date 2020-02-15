@@ -1,7 +1,6 @@
 # Capstone 5 - Prediciton of Stock Movement Based on Earnings Call Analysis
-
-# Jacob Kovach
-# Confidential and Proprietary
+Jacob Kovach
+Confidential and Proprietary
 
 Summary:
 
